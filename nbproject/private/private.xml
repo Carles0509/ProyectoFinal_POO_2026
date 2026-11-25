@@ -3,7 +3,14 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/D:/Coding/Java/ProyectoFinal_POO_2026/src/main/Main.java</file>
+            <file>file:/D:/Coding/Java/ProyectoFinal_POO_2026/src/inmuebles/Proyecto.java</file>
+            <file>file:/D:/Coding/Java/ProyectoFinal_POO_2026/src/personas/Empleado.java</file>
+            <file>file:/D:/Coding/Java/ProyectoFinal_POO_2026/src/inmuebles/Unidad.java</file>
+            <file>file:/D:/Coding/Java/ProyectoFinal_POO_2026/src/personas/AsesorInmobiliario.java</file>
+            <file>file:/D:/Coding/Java/ProyectoFinal_POO_2026/src/personas/Administrador.java</file>
+            <file>file:/D:/Coding/Java/ProyectoFinal_POO_2026/src/personas/IngenieroResidente.java</file>
+            <file>file:/D:/Coding/Java/ProyectoFinal_POO_2026/src/inmuebles/Torre.java</file>
+            <file>file:/D:/Coding/Java/ProyectoFinal_POO_2026/src/personas/Cliente.java</file>
         </group>
     </open-files>
 </project-private>
